@@ -1,21 +1,109 @@
 {
   "kapitel1": [
-    { "id": "k1_f01", "frage": "...", "antworten": [...], "richtigeAntwort": "...", "erklaerung": "..." },
-    { "id": "k1_f02", "frage": "...", "antworten": [...], "richtigeAntwort": "...", "erklaerung": "..." },
+    {
+      "id": "k1_f01",
+      "frage": "Was bedeutet der Begriff 'Innovation' ursprünglich?",
+      "antworten": ["Erneuerung", "Zerstörung", "Kombination", "Veränderung"],
+      "richtigeAntwort": "Erneuerung",
+      "erklaerung": "Innovation kommt vom lateinischen 'innovare' und bedeutet 'erneuern'."
+    },
+    {
+      "id": "k1_f02",
+      "frage": "Welche Fähigkeit wird im Kontext von Innovation gefordert?",
+      "antworten": ["Innovationswilligkeit", "Verwaltungserfahrung", "Monopolmacht", "Sozialprestige"],
+      "richtigeAntwort": "Innovationswilligkeit",
+      "erklaerung": "Innovationsbereitschaft ist essentiell für unternehmerischen Wandel."
+    },
     ...
-    { "id": "k1_f20", "frage": "...", "antworten": [...], "richtigeAntwort": "...", "erklaerung": "..." }
+    {
+      "id": "k1_f20",
+      "frage": "Frage 20 Kapitel 1",
+      "antworten": ["A", "B", "C", "D"],
+      "richtigeAntwort": "A",
+      "erklaerung": "Erklärung zu Frage 20"
+    }
   ],
   "kapitel2": [
-    { "id": "k2_f01", "frage": "...", ... },
+    {
+      "id": "k2_f01",
+      "frage": "Was beschreibt eine technologische Innovation?",
+      "antworten": ["Ein neues oder verbessertes Produkt", "Ein modifiziertes Geschäftsmodell", "Eine Preisstrategie", "Ein neuer Werbeslogan"],
+      "richtigeAntwort": "Ein neues oder verbessertes Produkt",
+      "erklaerung": "Technologische Innovationen verändern die Eigenschaften eines Produkts."
+    },
     ...
+    {
+      "id": "k2_f20",
+      "frage": "Frage 20 Kapitel 2",
+      "antworten": ["A", "B", "C", "D"],
+      "richtigeAntwort": "C",
+      "erklaerung": "Erklärung zu Frage 20"
+    }
   ],
   "kapitel3": [
-    { "id": "k3_f01", "frage": "...", ... },
+    {
+      "id": "k3_f01",
+      "frage": "Was ist das Ziel der Ideenbewertung?",
+      "antworten": ["Auswahl der erfolgversprechendsten Ideen", "Zielgruppenanalyse", "Marktforschung", "Designentwicklung"],
+      "richtigeAntwort": "Auswahl der erfolgversprechendsten Ideen",
+      "erklaerung": "Ideenbewertung filtert unrealisierbare oder unpassende Ideen frühzeitig aus."
+    },
     ...
+    {
+      "id": "k3_f20",
+      "frage": "Frage 20 Kapitel 3",
+      "antworten": ["A", "B", "C", "D"],
+      "richtigeAntwort": "B",
+      "erklaerung": "Erklärung zu Frage 20"
+    }
+  ],  "kapitel4": [
+    {
+      "id": "k4_f01",
+      "frage": "Was umfasst Innovationsmarketing?",
+      "antworten": ["Markteinführung und Kommunikation neuer Produkte", "Budgetplanung", "Einkaufsverhandlungen", "Produktionskostenrechnung"],
+      "richtigeAntwort": "Markteinführung und Kommunikation neuer Produkte",
+      "erklaerung": "Innovationsmarketing begleitet die Verwertung und Bekanntmachung neuer Lösungen."
+    },
+    ...
+    {
+      "id": "k4_f20",
+      "frage": "Frage 20 Kapitel 4",
+      "antworten": ["A", "B", "C", "D"],
+      "richtigeAntwort": "D",
+      "erklaerung": "Erklärung zu Frage 20"
+    }
   ],
-  ...
-  "kapitel9": [
-    { "id": "k9_f01", "frage": "...", ... },
+  "kapitel5": [
+    {
+      "id": "k5_f01",
+      "frage": "Was ist typischerweise Teil des Innovationsprozesses?",
+      "antworten": ["Ideenfindung, Bewertung, Umsetzung", "Kundendienst", "Vertrieb", "Personalentwicklung"],
+      "richtigeAntwort": "Ideenfindung, Bewertung, Umsetzung",
+      "erklaerung": "Diese drei Phasen beschreiben den klassischen Innovationsablauf."
+    },
     ...
-  ]
-}
+    {
+      "id": "k5_f20",
+      "frage": "Frage 20 Kapitel 5",
+      "antworten": ["A", "B", "C", "D"],
+      "richtigeAntwort": "C",
+      "erklaerung": "Erklärung zu Frage 20"
+    }
+  ],
+  "kapitel6": [
+    {
+      "id": "k6_f01",
+      "frage": "Was ist eine häufige Quelle für Innovationsideen?",
+      "antworten": ["Mitarbeitervorschläge", "Steuerberatung", "Abschreibungen", "Buchhaltung"],
+      "richtigeAntwort": "Mitarbeitervorschläge",
+      "erklaerung": "Mitarbeiter besitzen oft wertvolle Informationen aus der Praxis."
+    },
+    ...
+    {
+      "id": "k6_f20",
+      "frage": "Frage 20 Kapitel 6",
+      "antworten": ["A", "B", "C", "D"],
+      "richtigeAntwort": "A",
+      "erklaerung": "Erklärung zu Frage 20"
+    }
+  ],
