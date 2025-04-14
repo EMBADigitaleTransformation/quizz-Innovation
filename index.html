@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Innovations-Quiz</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="manifest" href="manifest.json" />
+  <meta name="theme-color" content="#4caf50" />
+</head>
+<body>
+  <div class="quiz-container">
+    <h1>Innovationsmanagement Quiz</h1>
+    <div id="progress">
+      <div id="progress-bar"></div>
+    </div>
+    <div id="frage-container">
+      <p id="frage"></p>
+      <ul id="antworten"></ul>
+    </div>
+    <div id="feedback" class="hidden">
+      <p id="feedback-text"></p>
+      <button id="weiter-btn">Weiter</button>
+    </div>
+    <div id="ergebnis" class="hidden">
+      <h2>Ergebnis</h2>
+      <p id="score"></p>
+      <button onclick="location.reload()">Nochmal spielen</button>
+      <button onclick="starteTrainingsmodus()">Trainingsmodus starten</button>
+    </div>
+    <div class="kapitelauswahl">
+      <button onclick="ladeFragenNachKapitel('kapitel1')">Kapitel 1</button>
+      <button onclick="ladeFragenNachKapitel('kapitel2')">Kapitel 2</button>
+    </div>
+  </div>
+  <script src="app.js"></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('service-worker.js')
+        .then(() => console.log("✅ Service Worker registriert"))
+        .catch(err => console.error("❌ Fehler beim SW:", err));
+    }
+  </script>
+</body>
+</html>
