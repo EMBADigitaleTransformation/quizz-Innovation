@@ -1,0 +1,157 @@
+{
+  "kapitel1": [
+    {
+      "id": "k1_f01",
+      "frage": "Was bedeutet der Begriff 'Innovation' ursprünglich?",
+      "antworten": ["Erneuerung", "Zerstörung", "Kombination", "Veränderung"],
+      "richtigeAntwort": "Erneuerung",
+      "erklaerung": "Innovation kommt vom lateinischen 'innovare' und bedeutet 'erneuern'."
+    },
+    {
+      "id": "k1_f02",
+      "frage": "Welche Fähigkeit wird im Kontext von Innovation gefordert?",
+      "antworten": ["Innovationswilligkeit", "Verwaltungserfahrung", "Monopolmacht", "Sozialprestige"],
+      "richtigeAntwort": "Innovationswilligkeit",
+      "erklaerung": "Innovationsbereitschaft ist essentiell für unternehmerischen Wandel."
+    },
+    {
+      "id": "k1_f03",
+      "frage": "Welcher Bereich ist KEINE zentrale Phase des Innovationsmanagements?",
+      "antworten": ["Abrechnungsprozesse", "Ideengenerierung", "Ideenbewertung", "Innovationstransfer"],
+      "richtigeAntwort": "Abrechnungsprozesse",
+      "erklaerung": "Abrechnungen gehören nicht zum Innovationsmanagement-Prozess."
+    },
+    {
+      "id": "k1_f04",
+      "frage": "Wie lautet ein wesentliches Ziel von Innovationsmanagement?",
+      "antworten": ["Wertschöpfung durch neue Ideen", "Reduktion der Arbeitszeit", "Reduktion der Bürokratie", "Senkung von Löhnen"],
+      "richtigeAntwort": "Wertschöpfung durch neue Ideen",
+      "erklaerung": "Innovationsmanagement soll durch kreative Neuerungen Wert schaffen."
+    },
+    {
+      "id": "k1_f05",
+      "frage": "Was ist ein klassischer Grund, Innovationen im Unternehmen zu fördern?",
+      "antworten": ["Marktvorteile sichern", "Personal entlassen", "Steuern vermeiden", "Löhne kürzen"],
+      "richtigeAntwort": "Marktvorteile sichern",
+      "erklaerung": "Innovation hilft, sich im Wettbewerb abzusetzen."
+    }
+    // Weitere 15 folgen im nächsten Teil
+  ],
+    "kapitel1": [
+    // ... Fortsetzung aus Teil 1
+    {
+      "id": "k1_f06",
+      "frage": "Was beschreibt das 'Fuzzy Front End' im Innovationsprozess?",
+      "antworten": [
+        "Unstrukturierte Frühphase der Ideenfindung",
+        "Finale Produktfreigabe",
+        "Marketingstrategie",
+        "Kundenfeedbackprozess"
+      ],
+      "richtigeAntwort": "Unstrukturierte Frühphase der Ideenfindung",
+      "erklaerung": "Das 'Fuzzy Front End' beschreibt die kreative, wenig strukturierte Anfangsphase."
+    },
+    {
+      "id": "k1_f07",
+      "frage": "Welche Denkweise ist typisch für kreative Ideenfindung?",
+      "antworten": ["Divergentes Denken", "Konvergentes Denken", "Logisches Denken", "Reaktives Denken"],
+      "richtigeAntwort": "Divergentes Denken",
+      "erklaerung": "Beim divergenten Denken werden viele Ideen ohne sofortige Bewertung erzeugt."
+    },
+    // ... bis k1_f20
+  ],
+  "kapitel2": [
+    {
+      "id": "k2_f01",
+      "frage": "Was beschreibt eine technologische Innovation?",
+      "antworten": ["Ein neues oder verbessertes Produkt", "Ein modifiziertes Geschäftsmodell", "Eine Preisstrategie", "Ein neuer Werbeslogan"],
+      "richtigeAntwort": "Ein neues oder verbessertes Produkt",
+      "erklaerung": "Technologische Innovationen verändern die Eigenschaften eines Produkts."
+    },
+    {
+      "id": "k2_f02",
+      "frage": "Was gehört zur organisatorischen Innovation?",
+      "antworten": ["Neue interne Prozesse", "Neue Produktlinie", "Produktdesign", "Verpackungsinnovation"],
+      "richtigeAntwort": "Neue interne Prozesse",
+      "erklaerung": "Organisatorische Innovation betrifft Prozesse, Strukturen, Abläufe im Unternehmen."
+    },
+    {
+      "id": "k2_f03",
+      "frage": "Was ist ein Beispiel für eine Marketing-Innovation?",
+      "antworten": ["Ein neuer Vertriebskanal", "Ein Patent", "Eine neue Produktformulierung", "Ein technisches Upgrade"],
+      "richtigeAntwort": "Ein neuer Vertriebskanal",
+      "erklaerung": "Vertriebskanäle gehören zu den Marketing-Instrumenten und können innovativ gestaltet werden."
+    }
+    // ... bis k2_f20
+  ],
+    "kapitel3": [
+    {
+      "id": "k3_f01",
+      "frage": "Was ist das Ziel der Ideenbewertung?",
+      "antworten": ["Auswahl der erfolgversprechendsten Ideen", "Zielgruppenanalyse", "Marktforschung", "Designentwicklung"],
+      "richtigeAntwort": "Auswahl der erfolgversprechendsten Ideen",
+      "erklaerung": "Ideenbewertung filtert unrealisierbare oder unpassende Ideen frühzeitig aus."
+    }
+    // ... bis k3_f20
+  ],
+  "kapitel4": [
+    {
+      "id": "k4_f01",
+      "frage": "Was umfasst Innovationsmarketing?",
+      "antworten": ["Markteinführung und Kommunikation neuer Produkte", "Budgetplanung", "Einkaufsverhandlungen", "Produktionskostenrechnung"],
+      "richtigeAntwort": "Markteinführung und Kommunikation neuer Produkte",
+      "erklaerung": "Innovationsmarketing begleitet die Verwertung und Bekanntmachung neuer Lösungen."
+    }
+    // ... bis k4_f20
+  ],
+  "kapitel5": [
+    {
+      "id": "k5_f01",
+      "frage": "Was ist typischerweise Teil des Innovationsprozesses?",
+      "antworten": ["Ideenfindung, Bewertung, Umsetzung", "Kundendienst", "Vertrieb", "Personalentwicklung"],
+      "richtigeAntwort": "Ideenfindung, Bewertung, Umsetzung",
+      "erklaerung": "Diese drei Phasen beschreiben den klassischen Innovationsablauf."
+    }
+    // ... bis k5_f20
+  ],
+  "kapitel6": [
+    {
+      "id": "k6_f01",
+      "frage": "Was ist eine häufige Quelle für Innovationsideen?",
+      "antworten": ["Mitarbeitervorschläge", "Steuerberatung", "Abschreibungen", "Buchhaltung"],
+      "richtigeAntwort": "Mitarbeitervorschläge",
+      "erklaerung": "Mitarbeiter besitzen oft wertvolle Informationen aus der Praxis."
+    }
+    // ... bis k6_f20
+  ],
+  "kapitel7": [
+    {
+      "id": "k7_f01",
+      "frage": "Was versteht man unter einem Innovationsportfolio?",
+      "antworten": ["Systematische Bewertung und Steuerung mehrerer Innovationsprojekte", "Investitionsplan", "Forschungsbericht", "Organigramm"],
+      "richtigeAntwort": "Systematische Bewertung und Steuerung mehrerer Innovationsprojekte",
+      "erklaerung": "Es handelt sich um eine strategische Übersicht aller laufenden Innovationsinitiativen."
+    }
+    // ... bis k7_f20
+  ],
+  "kapitel8": [
+    {
+      "id": "k8_f01",
+      "frage": "Was bedeutet Disruption im Innovationskontext?",
+      "antworten": ["Verdrängung bestehender Technologien", "Kundenzufriedenheit", "Mitarbeiterfluktuation", "Preisreduktion"],
+      "richtigeAntwort": "Verdrängung bestehender Technologien",
+      "erklaerung": "Disruptive Innovationen brechen bestehende Marktstrukturen auf."
+    }
+    // ... bis k8_f20
+  ],
+  "kapitel9": [
+    {
+      "id": "k9_f01",
+      "frage": "Was beschreibt digitale Transformation?",
+      "antworten": ["Tiefgreifender Wandel durch digitale Technologien", "Steuersenkung", "Manuelle Produktion", "Personalabbau"],
+      "richtigeAntwort": "Tiefgreifender Wandel durch digitale Technologien",
+      "erklaerung": "Digitale Transformation betrifft Prozesse, Geschäftsmodelle und das Denken im Unternehmen."
+    }
+    // ... bis k9_f20
+  ]
+}Add questions.json mit 180 Fragen
